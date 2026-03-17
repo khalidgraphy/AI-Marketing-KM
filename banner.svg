@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="320">
+      <stop offset="0%" stop-color="#0F1729"/>
+      <stop offset="100%" stop-color="#1B2A4A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2D5BFF"/>
+      <stop offset="100%" stop-color="#FF6B35"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="320" rx="12" fill="url(#bg)"/>
+
+  <!-- Accent line -->
+  <rect x="40" y="50" width="80" height="4" rx="2" fill="#2D5BFF"/>
+
+  <!-- Main title -->
+  <text x="40" y="110" font-family="monospace, 'Courier New'" font-size="56" font-weight="bold" fill="#FF6B35" letter-spacing="4">AI MARKETING</text>
+
+  <!-- Subtitle line -->
+  <text x="40" y="150" font-family="monospace, 'Courier New'" font-size="24" fill="#7F8C9B">Claude Code Skills for Marketing Automation</text>
+
+  <!-- Commands column 1 -->
+  <text x="40" y="195" font-family="monospace, 'Courier New'" font-size="13">
+    <tspan fill="#FF6B35">/audit</tspan><tspan fill="#4A5568"> full marketing audit</tspan>
+  </text>
+  <text x="40" y="215" font-family="monospace, 'Courier New'" font-size="13">
+    <tspan fill="#FF6B35">/copy</tspan><tspan fill="#4A5568"> optimized copywriting</tspan>
+  </text>
+  <text x="40" y="235" font-family="monospace, 'Courier New'" font-size="13">
+    <tspan fill="#FF6B35">/emails</tspan><tspan fill="#4A5568"> email sequences</tspan>
+  </text>
+  <text x="40" y="255" font-family="monospace, 'Courier New'" font-size="13">
+    <tspan fill="#FF6B35">/social</tspan><tspan fill="#4A5568"> content calendar</tspan>
+  </text>
+  <text x="40" y="275" font-family="monospace, 'Courier New'" font-size="13">
+    <tspan fill="#FF6B35">/ads</tspan><tspan fill="#4A5568"> ad campaigns</tspan>
+  </text>
+
+  <!-- Commands column 2 -->
+  <text x="320" y="195" font-family="monospace, 'Courier New'" font-size="13">
+    <tspan fill="#FF6B35">/funnel</tspan><tspan fill="#4A5568"> funnel analysis</tspan>
+  </text>
+  <text x="320" y="215" font-family="monospace, 'Courier New'" font-size="13">
+    <tspan fill="#FF6B35">/competitors</tspan><tspan fill="#4A5568"> competitive intel</tspan>
+  </text>
+  <text x="320" y="235" font-family="monospace, 'Courier New'" font-size="13">
+    <tspan fill="#FF6B35">/landing</tspan><tspan fill="#4A5568"> CRO analysis</tspan>
+  </text>
+  <text x="320" y="255" font-family="monospace, 'Courier New'" font-size="13">
+    <tspan fill="#FF6B35">/launch</tspan><tspan fill="#4A5568"> launch playbook</tspan>
+  </text>
+  <text x="320" y="275" font-family="monospace, 'Courier New'" font-size="13">
+    <tspan fill="#FF6B35">/proposal</tspan><tspan fill="#4A5568"> client proposals</tspan>
+  </text>
+
+  <!-- Commands column 3 -->
+  <text x="600" y="195" font-family="monospace, 'Courier New'" font-size="13">
+    <tspan fill="#FF6B35">/seo</tspan><tspan fill="#4A5568"> SEO content audit</tspan>
+  </text>
+  <text x="600" y="215" font-family="monospace, 'Courier New'" font-size="13">
+    <tspan fill="#FF6B35">/brand</tspan><tspan fill="#4A5568"> brand voice analysis</tspan>
+  </text>
+  <text x="600" y="235" font-family="monospace, 'Courier New'" font-size="13">
+    <tspan fill="#FF6B35">/report</tspan><tspan fill="#4A5568"> marketing report</tspan>
+  </text>
+  <text x="600" y="255" font-family="monospace, 'Courier New'" font-size="13">
+    <tspan fill="#FF6B35">/report-pdf</tspan><tspan fill="#4A5568"> PDF report</tspan>
+  </text>
+
+  <!-- Bottom bar -->
+  <rect x="0" y="296" width="900" height="24" rx="0" fill="#0A0F1A"/>
+  <text x="40" y="313" font-family="monospace, 'Courier New'" font-size="12" fill="#4A5568">
+    15 skills · 5 parallel agents · 4 python scripts · PDF reports · email templates · launch playbooks
+  </text>
+</svg>
