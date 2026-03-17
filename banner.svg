@@ -40,13 +40,17 @@
 
 <rect x="40" y="40" width="60" height="4" rx="2" fill="url(#accentLine)"/>
 
-<!-- Main Title (Left Aligned per new screenshot) -->
+<!-- Main Title -->
 
-<text x="40" y="105" font-family="sans-serif" font-size="56" font-weight="900" fill="url(#textGradient)" style="font-family: 'Inter', sans-serif; letter-spacing: 2px;">AI MARKETING</text>
+<text x="40" y="105" font-family="sans-serif" font-weight="900" style="font-family: 'Inter', sans-serif;">
+<tspan fill="url(#textGradient)" font-size="48">AI Marketing</tspan>
+<tspan fill="#94A3B8" font-size="28" font-weight="400"> by </tspan>
+<tspan fill="#FBBF24" font-size="32">Kreative Minds</tspan>
+</text>
 
 <!-- Subtitle -->
 
-<text x="40" y="145" font-family="sans-serif" font-size="22" font-weight="500" fill="#94A3B8">Claude Code Skills for Marketing Automation</text>
+<text x="40" y="145" font-family="sans-serif" font-size="20" font-weight="500" fill="#64748B">Claude Code Skills for Marketing Automation</text>
 
 <!-- Command Grid (3 Columns, Left Aligned) -->
 
@@ -95,7 +99,9 @@
 
 <!-- Footer Text -->
 <text x="450" y="35" font-family="sans-serif" font-size="14" text-anchor="middle" letter-spacing="0.5">
-  <tspan fill="#FFFFFF" font-weight="bold">Kreative Minds</tspan>
+  <a href="https://kreativeminds.ae" target="_blank">
+    <tspan fill="#FBBF24" font-weight="bold">Kreative Minds</tspan>
+  </a>
   <tspan fill="#334155">  |  </tspan>
   <tspan fill="#94A3B8">kreativeminds.ae</tspan>
   <tspan fill="#334155">  |  </tspan>
