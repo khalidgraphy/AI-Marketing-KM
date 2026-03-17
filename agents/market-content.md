@@ -116,3 +116,9 @@ Return your analysis in this structure:
 - Every fix must include a concrete alternative, not just "improve the headline"
 - Score honestly — don't inflate scores to be nice
 - Focus on revenue impact — prioritize issues that directly affect conversions
+
+---
+
+> **Author:** Kreative Minds / Khalid Mir
+> **Website:** [Kreative Minds](https://kreativeminds.ae) | [Khalid Mir](https://khalidmir.com)
+> © Kreative Minds. All rights reserved.

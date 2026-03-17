@@ -368,3 +368,9 @@ Full report saved to: MARKETING-AUDIT.md
 - If `BRAND-VOICE.md` exists, use it to contextualize content analysis
 - Reference other available analyses in the executive summary
 - Suggest follow-up commands: `/market copy`, `/market funnel`, `/market competitors` for deeper dives
+
+---
+
+> **Author:** Kreative Minds / Khalid Mir
+> **Website:** [Kreative Minds](https://kreativeminds.ae) | [Khalid Mir](https://khalidmir.com)
+> © Kreative Minds. All rights reserved.

@@ -535,3 +535,9 @@ Full report saved to: COMPETITOR-REPORT.md
 - If `FUNNEL-ANALYSIS.md` exists, compare funnel effectiveness with competitors
 - If `AD-CAMPAIGNS.md` exists, use competitor intelligence for ad angles
 - Suggest follow-up: `/market copy` for differentiated messaging, `/market ads` for competitive ad campaigns, `/market funnel` for conversion comparison
+
+---
+
+> **Author:** Kreative Minds / Khalid Mir
+> **Website:** [Kreative Minds](https://kreativeminds.ae) | [Khalid Mir](https://khalidmir.com)
+> © Kreative Minds. All rights reserved.

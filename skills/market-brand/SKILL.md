@@ -469,3 +469,9 @@ Reserved                                  Bold
 - If the brand's voice is inconsistent across channels, frame it as an opportunity to strengthen their brand, not as a failure. Consistency issues are common and fixable.
 - If the user has run `/market competitors` previously, use that data for the competitor voice comparison section.
 - The voice dimensions should be plotted visually (text-based spectrum) so stakeholders can quickly understand the positioning at a glance.
+
+---
+
+> **Author:** Kreative Minds / Khalid Mir
+> **Website:** [Kreative Minds](https://kreativeminds.ae) | [Khalid Mir](https://khalidmir.com)
+> © Kreative Minds. All rights reserved.

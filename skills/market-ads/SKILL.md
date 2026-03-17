@@ -456,3 +456,9 @@ Full campaigns saved to: AD-CAMPAIGNS.md
 - If `FUNNEL-ANALYSIS.md` exists, align ad funnel stages to conversion path
 - If `SOCIAL-CALENDAR.md` exists, promote top organic content as Spark/boosted ads
 - Suggest follow-up: `/market funnel` for conversion path, `/market landing` for page optimization
+
+---
+
+> **Author:** Kreative Minds / Khalid Mir
+> **Website:** [Kreative Minds](https://kreativeminds.ae) | [Khalid Mir](https://khalidmir.com)
+> © Kreative Minds. All rights reserved.

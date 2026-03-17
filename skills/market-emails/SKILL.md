@@ -412,3 +412,9 @@ Full sequences saved to: EMAIL-SEQUENCES.md
 - If `COPY-SUGGESTIONS.md` exists, reuse value propositions and CTA language
 - If `MARKETING-AUDIT.md` exists, reference conversion and content scores
 - Suggest follow-up: `/market copy` for website copy, `/market funnel` for conversion path analysis
+
+---
+
+> **Author:** Kreative Minds / Khalid Mir
+> **Website:** [Kreative Minds](https://kreativeminds.ae) | [Khalid Mir](https://khalidmir.com)
+> © Kreative Minds. All rights reserved.

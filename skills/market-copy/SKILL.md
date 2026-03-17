@@ -334,3 +334,9 @@ Write the full report to `COPY-SUGGESTIONS.md` with this structure:
 - If `MARKETING-AUDIT.md` exists, reference the Content & Messaging score
 - If `COMPETITOR-REPORT.md` exists, use competitor messaging to inform differentiation
 - Suggest follow-up: `/market landing` for landing-page-specific deep dive, `/market brand` for voice guidelines
+
+---
+
+> **Author:** Kreative Minds / Khalid Mir
+> **Website:** [Kreative Minds](https://kreativeminds.ae) | [Khalid Mir](https://khalidmir.com)
+> © Kreative Minds. All rights reserved.

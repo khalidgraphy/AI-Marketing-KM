@@ -454,3 +454,9 @@ Generate a file called `LAUNCH-PLAYBOOK.md` with:
 - Time the playbook to their stated launch date and work backwards.
 - Always include a "minimum viable launch" option for users with limited resources.
 - Emphasize that launching is an event, not a moment -- the buildup and follow-through matter more than day one.
+
+---
+
+> **Author:** Kreative Minds / Khalid Mir
+> **Website:** [Kreative Minds](https://kreativeminds.ae) | [Khalid Mir](https://khalidmir.com)
+> © Kreative Minds. All rights reserved.

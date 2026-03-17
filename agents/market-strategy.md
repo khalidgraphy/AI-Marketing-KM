@@ -153,3 +153,9 @@ For each recommendation, estimate:
 - Frame everything through a revenue lens, not just "best practices"
 - Identify the single biggest growth lever — what one change would have the most impact?
 - Consider the business type when making recommendations (SaaS vs E-commerce vs Agency, etc.)
+
+---
+
+> **Author:** Kreative Minds / Khalid Mir
+> **Website:** [Kreative Minds](https://kreativeminds.ae) | [Khalid Mir](https://khalidmir.com)
+> © Kreative Minds. All rights reserved.

@@ -357,3 +357,9 @@ This is a **production-grade AI marketing skill system** designed for people who
 **Best for:** Agencies, solopreneurs, marketers who use Claude and want to automate audits, copy, emails, and reporting.
 
 **Not for:** People who need visual design analysis, real-time analytics integration, or standalone GUI tools.
+
+---
+
+> **Author:** Kreative Minds / Khalid Mir
+> **Website:** [Kreative Minds](https://kreativeminds.ae) | [Khalid Mir](https://khalidmir.com)
+> © Kreative Minds. All rights reserved.

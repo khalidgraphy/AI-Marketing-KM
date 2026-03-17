@@ -425,3 +425,9 @@ Full calendar saved to: SOCIAL-CALENDAR.md
 - If `COMPETITOR-REPORT.md` exists, use competitor analysis for differentiation content
 - If `EMAIL-SEQUENCES.md` exists, align social content with email campaigns
 - Suggest follow-up: `/market copy` for website messaging, `/market ads` for paid social
+
+---
+
+> **Author:** Kreative Minds / Khalid Mir
+> **Website:** [Kreative Minds](https://kreativeminds.ae) | [Khalid Mir](https://khalidmir.com)
+> © Kreative Minds. All rights reserved.

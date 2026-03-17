@@ -162,3 +162,9 @@ For the homepage and one key content page:
 - Look at the HTML source for tracking scripts, not just visible content
 - Be specific with recommendations — include example meta descriptions, title tags, etc.
 - Prioritize fixes by revenue impact, not just technical correctness
+
+---
+
+> **Author:** Kreative Minds / Khalid Mir
+> **Website:** [Kreative Minds](https://kreativeminds.ae) | [Khalid Mir](https://khalidmir.com)
+> © Kreative Minds. All rights reserved.

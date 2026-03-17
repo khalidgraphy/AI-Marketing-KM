@@ -326,3 +326,9 @@ Generate a file called `LANDING-CRO.md` in the project root or output directory 
 - Reference industry benchmarks so the client understands where they stand.
 - If you have access to the page via browser tools, take screenshots and reference specific elements.
 - If the user has run `/market audit` previously, incorporate those findings into the CRO analysis for a more complete picture.
+
+---
+
+> **Author:** Kreative Minds / Khalid Mir
+> **Website:** [Kreative Minds](https://kreativeminds.ae) | [Khalid Mir](https://khalidmir.com)
+> © Kreative Minds. All rights reserved.

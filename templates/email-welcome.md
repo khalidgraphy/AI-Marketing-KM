@@ -81,3 +81,9 @@
 - Click rate target: 8-15%
 - Reply rate target: 3-5% (especially on Email 5)
 - Unsubscribe rate: < 0.5% per email
+
+---
+
+> **Author:** Kreative Minds / Khalid Mir
+> **Website:** [Kreative Minds](https://kreativeminds.ae) | [Khalid Mir](https://khalidmir.com)
+> © Kreative Minds. All rights reserved.

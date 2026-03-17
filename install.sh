@@ -1,4 +1,9 @@
 #!/bin/bash
+
+# Author: Kreative Minds / Khalid Mir
+# Website: https://kreativeminds.ae | https://khalidmir.com
+# © Kreative Minds. All rights reserved.
+
 # AI Marketing Suite — Claude Code Skills Installer
 # By Kreative Minds (https://kreativeminds.ae)
 # Installs marketing skills, agents, and scripts into Claude Code

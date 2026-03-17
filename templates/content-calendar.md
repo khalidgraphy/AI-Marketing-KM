@@ -76,3 +76,9 @@ Lighter content: memes, personal story, or reshare of top-performing post from t
 8. Behind-the-scenes of creating it
 9. Reshare 2-4 weeks later with new angle
 10. Compile monthly into newsletter
+
+---
+
+> **Author:** Kreative Minds / Khalid Mir
+> **Website:** [Kreative Minds](https://kreativeminds.ae) | [Khalid Mir](https://khalidmir.com)
+> © Kreative Minds. All rights reserved.

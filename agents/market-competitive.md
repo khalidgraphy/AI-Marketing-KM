@@ -126,3 +126,9 @@ Based on the competitive analysis, identify:
 - Focus on actionable positioning opportunities, not just observations
 - Every competitor weakness is a potential marketing angle for the target
 - Look for messaging gaps where no competitor is speaking to a specific audience or pain point
+
+---
+
+> **Author:** Kreative Minds / Khalid Mir
+> **Website:** [Kreative Minds](https://kreativeminds.ae) | [Khalid Mir](https://khalidmir.com)
+> © Kreative Minds. All rights reserved.

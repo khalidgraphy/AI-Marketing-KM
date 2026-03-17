@@ -441,3 +441,9 @@ Full analysis saved to: FUNNEL-ANALYSIS.md
 - If `EMAIL-SEQUENCES.md` exists, verify alignment with funnel stages
 - If `COMPETITOR-REPORT.md` exists, compare funnel effectiveness
 - Suggest follow-up: `/market copy` for page-specific copy, `/market emails` for nurture sequences, `/market landing` for CRO deep dive
+
+---
+
+> **Author:** Kreative Minds / Khalid Mir
+> **Website:** [Kreative Minds](https://kreativeminds.ae) | [Khalid Mir](https://khalidmir.com)
+> © Kreative Minds. All rights reserved.

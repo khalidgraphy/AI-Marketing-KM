@@ -128,3 +128,9 @@ Example: "If we change the CTA from 'Get Started' to 'Start Free Trial — No Cr
 - Every recommendation should tie to a measurable metric
 - Include estimated impact (% improvement range) where possible
 - Don't recommend manipulative dark patterns — focus on reducing legitimate friction
+
+---
+
+> **Author:** Kreative Minds / Khalid Mir
+> **Website:** [Kreative Minds](https://kreativeminds.ae) | [Khalid Mir](https://khalidmir.com)
+> © Kreative Minds. All rights reserved.

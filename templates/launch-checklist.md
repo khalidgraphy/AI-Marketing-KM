@@ -114,3 +114,9 @@
 | Product Hunt rank | Product Hunt dashboard |
 | Customer feedback | Support inbox + social mentions |
 | Referral signups | UTM tracking |
+
+---
+
+> **Author:** Kreative Minds / Khalid Mir
+> **Website:** [Kreative Minds](https://kreativeminds.ae) | [Khalid Mir](https://khalidmir.com)
+> © Kreative Minds. All rights reserved.

@@ -137,3 +137,9 @@ Based on our marketing audit of [website], here are the key findings:
 ---
 
 *This proposal is valid for 30 days from the date above.*
+
+---
+
+> **Author:** Kreative Minds / Khalid Mir
+> **Website:** [Kreative Minds](https://kreativeminds.ae) | [Khalid Mir](https://khalidmir.com)
+> © Kreative Minds. All rights reserved.

@@ -101,3 +101,9 @@ Convert leads who signed up but haven't purchased. Build trust through value, th
 - Best performing email: Usually Email 5 or 6 (the offer emails)
 - If Email 1-2 have low opens, fix your subject lines
 - If Email 5-6 have low clicks, fix your offer positioning
+
+---
+
+> **Author:** Kreative Minds / Khalid Mir
+> **Website:** [Kreative Minds](https://kreativeminds.ae) | [Khalid Mir](https://khalidmir.com)
+> © Kreative Minds. All rights reserved.

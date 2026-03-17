@@ -1,4 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" fill="none">
+<!-- 
+  Author: Kreative Minds / Khalid Mir
+  Website: https://kreativeminds.ae | https://khalidmir.com
+  © Kreative Minds. All rights reserved.
+-->
+
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="900" y2="320">
       <stop offset="0%" stop-color="#0F1729"/>

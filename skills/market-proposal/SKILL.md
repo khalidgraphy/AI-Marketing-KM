@@ -379,3 +379,9 @@ Generate a file called `CLIENT-PROPOSAL.md` with:
 - If audit data is available from previous skills, use it extensively -- data-backed proposals close at 2-3x the rate of generic proposals.
 - Keep it concise. Executives skim. Use bold, headers, and tables to make key information scannable.
 - Always include a specific, time-bound next step. Ambiguity kills deals.
+
+---
+
+> **Author:** Kreative Minds / Khalid Mir
+> **Website:** [Kreative Minds](https://kreativeminds.ae) | [Khalid Mir](https://khalidmir.com)
+> © Kreative Minds. All rights reserved.

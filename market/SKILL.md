@@ -92,3 +92,9 @@ Many skills work together:
 - `/market report` and `/market report-pdf` compile all available analysis data
 - `/market copy` benefits from `/market brand` voice guidelines if run first
 - `/market emails` uses insights from `/market funnel` analysis if available
+
+---
+
+> **Author:** Kreative Minds / Khalid Mir
+> **Website:** [Kreative Minds](https://kreativeminds.ae) | [Khalid Mir](https://khalidmir.com)
+> © Kreative Minds. All rights reserved.

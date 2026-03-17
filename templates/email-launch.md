@@ -127,3 +127,9 @@
 | Click rate (launch day) | 5% | 10% | 15%+ |
 | Conversion rate (full sequence) | 2% | 5% | 10%+ |
 | Revenue per subscriber | $1-3 | $3-8 | $8+ |
+
+---
+
+> **Author:** Kreative Minds / Khalid Mir
+> **Website:** [Kreative Minds](https://kreativeminds.ae) | [Khalid Mir](https://khalidmir.com)
+> © Kreative Minds. All rights reserved.

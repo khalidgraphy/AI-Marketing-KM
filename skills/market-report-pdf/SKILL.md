@@ -346,3 +346,9 @@ The PDF report skill will automatically look for output files from these skills 
 - Round scores to whole numbers. Decimals imply false precision.
 - Keep the executive summary tight -- 2-4 sentences maximum. Clients skim cover pages.
 - If generating for a prospect (not yet a client), the report serves as a sales tool. Make the opportunities compelling and the action plan achievable.
+
+---
+
+> **Author:** Kreative Minds / Khalid Mir
+> **Website:** [Kreative Minds](https://kreativeminds.ae) | [Khalid Mir](https://khalidmir.com)
+> © Kreative Minds. All rights reserved.
