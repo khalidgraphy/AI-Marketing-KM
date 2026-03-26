@@ -178,6 +178,6 @@ See the [LICENSE](./LICENSE) file for full terms.
 
 ## Built By
 
-**[Kreative Minds](https://kreativeminds.ae)** — A creative marketing studio based in Dubai helping businesses grow with smart, practical tools.
+**[Kreative Minds](https://kreativeminds.ae)** — A creative marketing agency based in Dubai helping businesses grow with smart, practical tools.
 
 Follow the work: [khalidgraphy.com](https://khalidgraphy.com)
